@@ -1,0 +1,16 @@
+D:\Cursos\csharp\Curso-de-csharp-cfb\for\bin\Debug\net5.0\for.exe
+D:\Cursos\csharp\Curso-de-csharp-cfb\for\bin\Debug\net5.0\for.deps.json
+D:\Cursos\csharp\Curso-de-csharp-cfb\for\bin\Debug\net5.0\for.runtimeconfig.json
+D:\Cursos\csharp\Curso-de-csharp-cfb\for\bin\Debug\net5.0\for.runtimeconfig.dev.json
+D:\Cursos\csharp\Curso-de-csharp-cfb\for\bin\Debug\net5.0\for.dll
+D:\Cursos\csharp\Curso-de-csharp-cfb\for\bin\Debug\net5.0\ref\for.dll
+D:\Cursos\csharp\Curso-de-csharp-cfb\for\bin\Debug\net5.0\for.pdb
+D:\Cursos\csharp\Curso-de-csharp-cfb\for\obj\Debug\net5.0\for.csproj.AssemblyReference.cache
+D:\Cursos\csharp\Curso-de-csharp-cfb\for\obj\Debug\net5.0\for.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\csharp\Curso-de-csharp-cfb\for\obj\Debug\net5.0\for.AssemblyInfoInputs.cache
+D:\Cursos\csharp\Curso-de-csharp-cfb\for\obj\Debug\net5.0\for.AssemblyInfo.cs
+D:\Cursos\csharp\Curso-de-csharp-cfb\for\obj\Debug\net5.0\for.csproj.CoreCompileInputs.cache
+D:\Cursos\csharp\Curso-de-csharp-cfb\for\obj\Debug\net5.0\for.dll
+D:\Cursos\csharp\Curso-de-csharp-cfb\for\obj\Debug\net5.0\ref\for.dll
+D:\Cursos\csharp\Curso-de-csharp-cfb\for\obj\Debug\net5.0\for.pdb
+D:\Cursos\csharp\Curso-de-csharp-cfb\for\obj\Debug\net5.0\for.genruntimeconfig.cache

@@ -1,0 +1,24 @@
+C:\Users\Sasori\programacao\CSharp\Curso-de-csharp-cfb\Curso de csharp\bin\Debug\net5.0\Curso de csharp.exe
+C:\Users\Sasori\programacao\CSharp\Curso-de-csharp-cfb\Curso de csharp\bin\Debug\net5.0\Curso de csharp.deps.json
+C:\Users\Sasori\programacao\CSharp\Curso-de-csharp-cfb\Curso de csharp\bin\Debug\net5.0\Curso de csharp.runtimeconfig.json
+C:\Users\Sasori\programacao\CSharp\Curso-de-csharp-cfb\Curso de csharp\bin\Debug\net5.0\Curso de csharp.runtimeconfig.dev.json
+C:\Users\Sasori\programacao\CSharp\Curso-de-csharp-cfb\Curso de csharp\bin\Debug\net5.0\Curso de csharp.dll
+C:\Users\Sasori\programacao\CSharp\Curso-de-csharp-cfb\Curso de csharp\bin\Debug\net5.0\ref\Curso de csharp.dll
+C:\Users\Sasori\programacao\CSharp\Curso-de-csharp-cfb\Curso de csharp\bin\Debug\net5.0\Curso de csharp.pdb
+C:\Users\Sasori\programacao\CSharp\Curso-de-csharp-cfb\Curso de csharp\obj\Debug\net5.0\Curso de csharp.csprojAssemblyReference.cache
+C:\Users\Sasori\programacao\CSharp\Curso-de-csharp-cfb\Curso de csharp\obj\Debug\net5.0\Curso de csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sasori\programacao\CSharp\Curso-de-csharp-cfb\Curso de csharp\obj\Debug\net5.0\Curso de csharp.AssemblyInfoInputs.cache
+C:\Users\Sasori\programacao\CSharp\Curso-de-csharp-cfb\Curso de csharp\obj\Debug\net5.0\Curso de csharp.AssemblyInfo.cs
+C:\Users\Sasori\programacao\CSharp\Curso-de-csharp-cfb\Curso de csharp\obj\Debug\net5.0\Curso de csharp.csproj.CoreCompileInputs.cache
+C:\Users\Sasori\programacao\CSharp\Curso-de-csharp-cfb\Curso de csharp\obj\Debug\net5.0\Curso de csharp.dll
+C:\Users\Sasori\programacao\CSharp\Curso-de-csharp-cfb\Curso de csharp\obj\Debug\net5.0\ref\Curso de csharp.dll
+C:\Users\Sasori\programacao\CSharp\Curso-de-csharp-cfb\Curso de csharp\obj\Debug\net5.0\Curso de csharp.pdb
+C:\Users\Sasori\programacao\CSharp\Curso-de-csharp-cfb\Curso de csharp\obj\Debug\net5.0\Curso de csharp.genruntimeconfig.cache
+D:\Cursos\csharp\Curso-de-csharp-cfb\Ordem-de-Execucao-dos-Construtores\obj\Debug\net5.0\Curso de csharp.csproj.AssemblyReference.cache
+D:\Cursos\csharp\Curso-de-csharp-cfb\Ordem-de-Execucao-dos-Construtores\obj\Debug\net5.0\Curso de csharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\csharp\Curso-de-csharp-cfb\Ordem-de-Execucao-dos-Construtores\obj\Debug\net5.0\Curso de csharp.AssemblyInfoInputs.cache
+D:\Cursos\csharp\Curso-de-csharp-cfb\Ordem-de-Execucao-dos-Construtores\obj\Debug\net5.0\Curso de csharp.AssemblyInfo.cs
+D:\Cursos\csharp\Curso-de-csharp-cfb\Ordem-de-Execucao-dos-Construtores\obj\Debug\net5.0\Curso de csharp.csproj.CoreCompileInputs.cache
+D:\Cursos\csharp\Curso-de-csharp-cfb\Ordem-de-Execucao-dos-Construtores\obj\Debug\net5.0\Curso de csharp.dll
+D:\Cursos\csharp\Curso-de-csharp-cfb\Ordem-de-Execucao-dos-Construtores\obj\Debug\net5.0\ref\Curso de csharp.dll
+D:\Cursos\csharp\Curso-de-csharp-cfb\Ordem-de-Execucao-dos-Construtores\obj\Debug\net5.0\Curso de csharp.pdb
